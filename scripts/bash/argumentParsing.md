@@ -36,5 +36,31 @@ eval set -- "$PARAMS"
 
 ```
 
+There were also other blogs in Reference section to see more details. The details include: common argument names and etc.
+
+
+## Common options:
+
+|option | Explanation|
+|--- | --- |
+| -a | List all items. |
+| -c | Get the count of items. |
+| -d | Output directory. |
+| -e | Expand items. |
+| -f | To specify a file. |
+| -h | To show the help page. |
+| -i | To ignore character case. |
+| -l | To list a text. |
+| -n | To say no for a question. |
+| -o | To sendd output to a file or so. |
+| -q | Keep silent; don’t ask the user. |
+| -r | To process something recursively. |
+| -s | Stealth mode. |
+| -v | Verbose mode. |
+| -x | Specify executable. |
+| -y | To say yes without prompting the user. |
+
+
 ## Reference
-https://medium.com/@Drew_Stokes/bash-argument-parsing-54f3b81a6a8f
+- https://medium.com/@Drew_Stokes/bash-argument-parsing-54f3b81a6a8f
+- https://likegeeks.com/linux-bash-scripting-awesome-guide-part3/ 
